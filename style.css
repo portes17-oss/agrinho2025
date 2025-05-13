@@ -4,7 +4,7 @@
 :root {
 --primary-color: #026773;
 --secondary-color: #3CA6A6;
---text-color: #024959;
+--text-color: #320259;
 --background-color: #F2E3D5;
 --button-hover: #012E40;
 --font-body: "Chocolate Classical Sans", serif;
@@ -59,7 +59,7 @@ max-width: 800px;
 text-align: center;
 margin-bottom: 20px;
 padding: 20px;
-background-color: #ffffff;
+background-color: #206966;
 border-radius: 8px;
 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
